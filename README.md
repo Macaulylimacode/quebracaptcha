@@ -11,7 +11,7 @@
 # Informações do Projeto:
 ### Project Information:
 
-Projeto PJE, Foi solcitado uma automação no qual não parece no captcha de preteção do próprio site.
+Projeto PJE, Foi solcitado uma automação no qual não pare no captcha de preteção do próprio site.
 Nesse Códigp fonte contém o preenchimento automático do número da OAB além da sigla do estado
 no qual ele está a origem da carteria dele. Foi usado a API ```bash anti-captcha.com/ ```
 Lembre-se de acessar o arquivo CHAVE > CHAVE_API, o mesmo foi retirado do código fonte o mesmo é de uso pessoal.
