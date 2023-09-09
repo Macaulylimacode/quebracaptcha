@@ -14,13 +14,13 @@
 Projeto PJE, Foi solcitado uma automação no qual não parece no captcha de preteção do próprio site.
 Nesse Códigp fonte contém o preenchimento automático do número da OAB além da sigla do estado
 no qual ele está a origem da carteria dele. Foi usado a API ```bash anti-captcha.com/ ```
-Lembre-se de acessar o arquivo CHAVE > CHAVE_API, o mesmo foi retriado do código fonte pós é de uso pessoal.
+Lembre-se de acessar o arquivo CHAVE > CHAVE_API, o mesmo foi retirado do código fonte o mesmo é de uso pessoal.
 Crie sua conta no AntiCaptcha, recarregue e aproveite.
 
 Project PJE, An automation was requested in which it does not appear in the protection captcha of the site itself.
 This source Code contains the automatic completion of the OAB number in addition to the state abbreviation
 in which he is the origin of his carteria. API was used ```bash anti-captcha.com/ ```
-Remember to access the CHAVE > CHAVE_API file, it was retrieved from the post source code and is for personal use.
+Remember to access the CHAVE > CHAVE_API file, it was taken from the source code and is for personal use.
 Create your AntiCaptcha account, recharge and enjoy.
 
 # ATENÇÃO:
